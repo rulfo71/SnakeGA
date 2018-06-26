@@ -1,7 +1,9 @@
 # SNAKES GAME
 # Use ARROW KEYS to play, SPACE BAR for pausing/resuming and Esc Key for exiting
+#probando hacer cambios pa commit
 
-import curses
+
+import curses	
 from curses import KEY_RIGHT, KEY_LEFT, KEY_UP, KEY_DOWN
 from random import randint
 from subprocess import call
